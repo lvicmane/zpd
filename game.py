@@ -32,3 +32,5 @@ while repeat:
     else:
         repeat = False
         print("Paldies par spēli!  Bye, bye!")
+
+beigas
